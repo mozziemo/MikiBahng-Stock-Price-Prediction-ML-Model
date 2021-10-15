@@ -1,0 +1,32 @@
+# Environments / Config files and directories
+.vscode
+.env
+*env
+*env.*
+config
+config.*
+
+# Python Cached / Byte-compiled / optimized / DLL files and directories
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Log files
+log
+*.log
+
+# Temporary / Test files and directories
+temp
+*.temp
+tmp
+*.tmp
+
+# Confidential files and directories
+secrets
+secrets.*
+secret
+secret.*
+credentials
+credentials.*
+credential
+credential.*
